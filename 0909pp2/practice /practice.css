@@ -1,0 +1,28 @@
+p {
+    color: blue;
+
+}
+
+
+
+a:link {
+    color: red;
+}
+
+a:hover {
+    color: pink;
+    background-color: aqua;
+    font-size: 300%;
+
+}
+a:active {
+    color: orange;
+    font: Times;
+}
+a:visited {
+    color: black;
+}
+/* 
+a.ex1:hover, a.ex1:active {
+    color: red;
+  } */

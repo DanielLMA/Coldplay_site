@@ -1,0 +1,44 @@
+body {
+    margin-top: 0;
+}
+
+.nav {
+    height: 60px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    width: 100px
+}
+
+#menutag {
+    width: 40px;
+}
+
+#main {
+    height: 500px;
+    width: 100%;
+}
+
+/* .lower_category {
+    height: 210px;
+    width 100%;
+} */
+
+.main {
+    background-image: url("toyota-supra-lead-w.jpg");
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+}
+.center {
+    text-align: center;
+    color: white;
+}
+
+.center_bottom {
+    text-align: bottom;
+}
